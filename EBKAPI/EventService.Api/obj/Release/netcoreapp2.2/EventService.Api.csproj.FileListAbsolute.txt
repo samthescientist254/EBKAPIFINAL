@@ -1,0 +1,8 @@
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventService.Api\bin\Release\netcoreapp2.2\EventService.Api.deps.json
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventService.Api\bin\Release\netcoreapp2.2\EventService.Api.dll
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventService.Api\bin\Release\netcoreapp2.2\EventService.Api.pdb
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventService.Api\obj\Release\netcoreapp2.2\EventService.Api.csprojAssemblyReference.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventService.Api\obj\Release\netcoreapp2.2\EventService.Api.AssemblyInfoInputs.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventService.Api\obj\Release\netcoreapp2.2\EventService.Api.AssemblyInfo.cs
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventService.Api\obj\Release\netcoreapp2.2\EventService.Api.dll
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventService.Api\obj\Release\netcoreapp2.2\EventService.Api.pdb

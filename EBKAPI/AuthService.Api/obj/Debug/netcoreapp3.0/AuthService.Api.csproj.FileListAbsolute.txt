@@ -1,0 +1,3 @@
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\AuthService.Api\obj\Debug\netcoreapp3.0\AuthService.Api.csprojAssemblyReference.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\AuthService.Api\obj\Debug\netcoreapp3.0\AuthService.Api.AssemblyInfoInputs.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\AuthService.Api\obj\Debug\netcoreapp3.0\AuthService.Api.AssemblyInfo.cs

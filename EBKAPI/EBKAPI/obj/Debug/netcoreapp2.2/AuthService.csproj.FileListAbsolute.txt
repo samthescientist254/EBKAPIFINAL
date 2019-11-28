@@ -1,0 +1,5 @@
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EBKAPI\obj\Debug\netcoreapp2.2\AuthService.csprojAssemblyReference.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EBKAPI\obj\Debug\netcoreapp2.2\AuthService.RazorAssemblyInfo.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EBKAPI\obj\Debug\netcoreapp2.2\AuthService.RazorAssemblyInfo.cs
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EBKAPI\obj\Debug\netcoreapp2.2\AuthService.AssemblyInfoInputs.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EBKAPI\obj\Debug\netcoreapp2.2\AuthService.AssemblyInfo.cs

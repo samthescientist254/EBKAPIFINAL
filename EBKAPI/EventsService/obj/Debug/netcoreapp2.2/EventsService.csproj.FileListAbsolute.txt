@@ -1,0 +1,95 @@
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.deps.json
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.json
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.dev.json
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.dll
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.pdb
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.dll
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.pdb
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csprojAssemblyReference.cache
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csproj.CoreCompileInputs.cache
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cache
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cs
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfoInputs.cache
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfo.cs
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorTargetAssemblyInfo.cache
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csproj.CopyComplete
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.dll
+C:\Users\jbrand\Source\Repos\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.pdb
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.deps.json
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.json
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.dev.json
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.dll
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.pdb
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.dll
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.pdb
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csprojAssemblyReference.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cs
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfoInputs.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfo.cs
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorTargetAssemblyInfo.cache
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csproj.CopyComplete
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.dll
+C:\Users\jbrad\Desktop\ebkapi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.pdb
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.deps.json
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.json
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.dev.json
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.dll
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.pdb
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.dll
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.pdb
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csprojAssemblyReference.cache
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cache
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cs
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfoInputs.cache
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfo.cs
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorTargetAssemblyInfo.cache
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csproj.CopyComplete
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.dll
+D:\Agency Banikng\ApiAgency\Agency Portal\New folder\AgencyDemo1811\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.pdb
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.deps.json
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.json
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.dev.json
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.dll
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.pdb
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.dll
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.pdb
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csprojAssemblyReference.cache
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cache
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cs
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfoInputs.cache
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfo.cs
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorTargetAssemblyInfo.cache
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csproj.CopyComplete
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.dll
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.pdb
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Ebk\development\SatoApi\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.deps.json
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.json
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.runtimeconfig.dev.json
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.dll
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventsService.pdb
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.dll
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\bin\Debug\netcoreapp2.2\EventService.Api.pdb
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csprojAssemblyReference.cache
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cache
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorAssemblyInfo.cs
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfoInputs.cache
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.AssemblyInfo.cs
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.RazorTargetAssemblyInfo.cache
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.csproj.CopyComplete
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.dll
+C:\Users\swainaina\Desktop\EBKAPI HOSTING\EBKAPI\EventsService\obj\Debug\netcoreapp2.2\EventsService.pdb
